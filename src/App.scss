@@ -29,7 +29,7 @@
     flex: 1;
     width: 100%;
     flex-direction: column;
-    padding: 4rem 2rem;
+    padding: 3rem 2rem 1rem;
   
     @media screen and (max-width: 450px) {
       padding: 4rem 1rem 2rem;
@@ -105,7 +105,7 @@
   
     padding: 1rem;
   
-    div {
+    a {
       width: 40px;
       height: 40px;
       border-radius: 50%;

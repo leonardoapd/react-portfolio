@@ -90,10 +90,10 @@
     }
   }
 
-  @media screen and (min-width: 1000px) {
+  @media screen and (min-width: 900px) {
     // margin: 2.5rem;
     justify-content: flex-start;
-    align-items: flex-end;
+    align-items: flex-start;
   }
 
   @media screen and (max-width: 420px) {
@@ -116,6 +116,10 @@
     align-self: center;
     object-fit: contain;
     z-index: 1;
+
+    @media screen and (max-width: 900px) {
+      width: 100%;
+    }
   }
 
   .overlay_circle {
