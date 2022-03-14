@@ -100,6 +100,18 @@
     width: 90%;
     justify-content: flex-start;
     align-items: flex-end;
+
+    .badge-cmp {
+      width: 180px;
+    }
+
+    .head-text {
+      font-size: 1rem !important;
+    }
+
+    .tag-cmp{
+      display: none;
+    }
   }
 }
 
@@ -118,7 +130,7 @@
     z-index: 1;
 
     @media screen and (max-width: 900px) {
-      width: 100%;
+      width: 70%;
     }
   }
 
@@ -209,6 +221,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     align-self: center;
+    margin-top: 1rem;
 
     div:nth-child(1) {
       width: 50px;
