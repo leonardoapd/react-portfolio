@@ -54,21 +54,21 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### Mobile Captures
 
 #### Home
-![Home](https://github.com/leonardoapd/react-portfolio/blob/main/captures/home-mobile.jpg?raw=true)
+![Home](https://github.com/leonardoapd/react-portfolio/blob/main/captures/home-mobile.png?raw=true)
 
 #### About
-![About](https://github.com/leonardoapd/react-portfolio/blob/main/captures/about-mobile.jpg?raw=true)
+![About](https://github.com/leonardoapd/react-portfolio/blob/main/captures/about-mobile.png?raw=true)
 
 #### Work
-![Work](https://github.com/leonardoapd/react-portfolio/blob/main/captures/work-mobile.jpg?raw=true)
+![Work](https://github.com/leonardoapd/react-portfolio/blob/main/captures/work-mobile.png?raw=true)
 
-![Work](https://github.com/leonardoapd/react-portfolio/blob/main/captures/work2-mobile.jpg?raw=true)
+![Work](https://github.com/leonardoapd/react-portfolio/blob/main/captures/work2-mobile.png?raw=true)
 
 #### Skills and Experience
-![Skills](https://github.com/leonardoapd/react-portfolio/blob/main/captures/skills-mobile.jpg?raw=true)
+![Skills](https://github.com/leonardoapd/react-portfolio/blob/main/captures/skills-mobile.png?raw=true)
 
 #### Testimonials
-![Testimonials](https://github.com/leonardoapd/react-portfolio/blob/main/captures/testimonials-mobile.jpg?raw=true)
+![Testimonials](https://github.com/leonardoapd/react-portfolio/blob/main/captures/testimonials-mobile.png?raw=true)
 
 #### Contact
-![Contact](https://github.com/leonardoapd/react-portfolio/blob/main/captures/contact-mobile.jpg?raw=true)
+![Contact](https://github.com/leonardoapd/react-portfolio/blob/main/captures/contact-mobile.png?raw=true)
