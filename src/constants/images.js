@@ -1,5 +1,6 @@
 import email from '../assets/email.png';
 import mobile from '../assets/mobile.png';
+import telephone from '../assets/telephone.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
@@ -45,6 +46,7 @@ import web_animation from '../assets/web_animation.jpg';
 const exportedImages = {
   email,
   web_dev,
+  telephone,
   frontend_dev,
   web_animation,
   backend_dev,
