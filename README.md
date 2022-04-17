@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Portfolio Created with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello! I'm Leonardo Perdomo, React Frontend Developer. This project was bootstrapped with ReactJs, Sanity and FramerMotion. 
 
 ## Available Scripts
 
@@ -29,42 +29,46 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Captures of the Project
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Desktop Captures
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Home
+![Home](https://github.com/leonardoapd/react-portfolio/blob/main/captures/home-desktop.png?raw=true)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### About
+![About](https://github.com/leonardoapd/react-portfolio/blob/main/captures/about-desktop.png?raw=true)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### Work
+![Work](https://github.com/leonardoapd/react-portfolio/blob/main/captures/work-desktop.png?raw=true)
 
-## Learn More
+#### Skills and Experience
+![Skills](https://github.com/leonardoapd/react-portfolio/blob/main/captures/skills-desktop.png?raw=true)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Testimonials
+![Testimonials](https://github.com/leonardoapd/react-portfolio/blob/main/captures/testimonials-desktop.png?raw=true)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### Contact
+![Contact](https://github.com/leonardoapd/react-portfolio/blob/main/captures/contact-desktop.png?raw=true)
 
-### Code Splitting
+### Mobile Captures
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### Home
+![Home](https://github.com/leonardoapd/react-portfolio/blob/main/captures/home-mobile.jpg?raw=true)
 
-### Analyzing the Bundle Size
+#### About
+![About](https://github.com/leonardoapd/react-portfolio/blob/main/captures/about-mobile.jpg?raw=true)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+#### Work
+![Work](https://github.com/leonardoapd/react-portfolio/blob/main/captures/work-mobile.jpg?raw=true)
 
-### Making a Progressive Web App
+![Work](https://github.com/leonardoapd/react-portfolio/blob/main/captures/work2-mobile.jpg?raw=true)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### Skills and Experience
+![Skills](https://github.com/leonardoapd/react-portfolio/blob/main/captures/skills-mobile.jpg?raw=true)
 
-### Advanced Configuration
+#### Testimonials
+![Testimonials](https://github.com/leonardoapd/react-portfolio/blob/main/captures/testimonials-mobile.jpg?raw=true)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Contact
+![Contact](https://github.com/leonardoapd/react-portfolio/blob/main/captures/contact-mobile.jpg?raw=true)
